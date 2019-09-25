@@ -20,3 +20,5 @@ bot.on('ready', async () => {
     });
     bot.user.setStatus('dnd');
 })
+
+console.alert("Bot is starting")
